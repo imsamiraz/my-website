@@ -1,4 +1,4 @@
-> s:
+
 @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700&display=swap');
 
 :root {
@@ -267,7 +267,6 @@ nav a:hover {
 .experience-header {
     display: flex;
 
-> s:
 
     justify-content: space-between;
     gap: 30px;
